@@ -4,4 +4,4 @@ you are doing great !!!
 
 I am proud of you !!!
 
-additor: java is cool 
+editor: java is cool
